@@ -1,5 +1,3 @@
-# 这些年看过的书
-
   - [Think in java](https://book.douban.com/subject/1474824/)
   - [Effective java](https://book.douban.com/subject/3360807/)
   - [java并发编程实战](https://book.douban.com/subject/10484692/)
